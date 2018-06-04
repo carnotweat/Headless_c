@@ -1,0 +1,1 @@
+c or cpp code executed without a single header file.
